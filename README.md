@@ -2,7 +2,7 @@
 
 ## Replication package
 
-### The GitHub Account of selected IT companies in our dataset include:
+### The GitHub Account of IT companies in our dataset include:
 #### In the U.S.:
     google, facebook, linkedin, amzn, apple, cisco, IBM, intel, NVIDIA, amd, oracle, redhat-developer, dell, vmware, twitter, yahoo, eBay, paypal, Netflix, youtube, airbnb, pinterest, uber, Instagram, Yelp, groupon, zynga, cloudera, HewlettPackard, zuora, square, JetBrains, Medium, tripadvisor, Mastercard, docusign, Mirantis, okta, salesforce, wish, LendingClub, Juniper, pivotal, nutanix, aol, dropbox, github, ExpediaInc, docker, tenable
 #### In China:
